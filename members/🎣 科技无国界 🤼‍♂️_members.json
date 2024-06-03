@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1254264629,
+        "username": "XiaoGuiDangJia_USER_BOT",
+        "first_name": "ㅤ",
+        "last_name": "小鬼当家-USER-BOT",
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 24757019,
+        "username": "o1xhack",
+        "first_name": "O1XHACK at o1xinsight",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 1124404940,
+        "username": "XiaoGuiDangJia_BOT",
+        "first_name": "小鬼当家",
+        "last_name": null,
+        "phone": null,
+        "status": null
+    },
+    {
+        "id": 1326008198,
+        "username": "cnLottery_bot",
+        "first_name": "Telegram 抽奖助手",
+        "last_name": null,
+        "phone": null,
+        "status": null
+    },
+    {
+        "id": 650701127,
+        "username": "anderx_mayx",
+        "first_name": "Ander",
+        "last_name": "Nolan",
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 210944655,
+        "username": "combot",
+        "first_name": "Combot",
+        "last_name": null,
+        "phone": null,
+        "status": null
+    },
+    {
+        "id": 696950329,
+        "username": "BARTNeko",
+        "first_name": "SCAXNeko",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusOffline(was_online=datetime.datetime(2024, 5, 20, 7, 59, 43, tzinfo=datetime.timezone.utc))"
+    }
+]

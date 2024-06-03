@@ -1,0 +1,322 @@
+[
+    {
+        "id": 140294235,
+        "username": "FromAndToUnknown",
+        "first_name": "Daniel",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusOnline(expires=datetime.datetime(2024, 5, 20, 8, 15, 54, tzinfo=datetime.timezone.utc))"
+    },
+    {
+        "id": 7679610,
+        "username": "FabianPastor",
+        "first_name": "Fabian",
+        "last_name": "Pastor",
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 1750252736,
+        "username": null,
+        "first_name": "Alberto",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 124282425,
+        "username": null,
+        "first_name": null,
+        "last_name": null,
+        "phone": null,
+        "status": null
+    },
+    {
+        "id": 6230246,
+        "username": "aleixx",
+        "first_name": "aleix",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 1211217088,
+        "username": "MyVerifyBot",
+        "first_name": "My Verify Bot",
+        "last_name": null,
+        "phone": null,
+        "status": null
+    },
+    {
+        "id": 95890871,
+        "username": "BrokenClock",
+        "first_name": "Pierre",
+        "last_name": "[BrokenClock]",
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 67554345,
+        "username": "jefflemon",
+        "first_name": "jeff",
+        "last_name": "lemon",
+        "phone": null,
+        "status": "UserStatusOffline(was_online=datetime.datetime(2024, 5, 20, 0, 46, 27, tzinfo=datetime.timezone.utc))"
+    },
+    {
+        "id": 558772678,
+        "username": "TheKneesocks",
+        "first_name": "Kneesocks",
+        "last_name": "| FOLLOW THE RURUS",
+        "phone": null,
+        "status": "UserStatusOffline(was_online=datetime.datetime(2024, 5, 20, 8, 9, 20, tzinfo=datetime.timezone.utc))"
+    },
+    {
+        "id": 709501889,
+        "username": "thisisthelongesttelegramusername",
+        "first_name": "@Red",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 1269231509,
+        "username": "nocturnalbird",
+        "first_name": "Owl",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 212664216,
+        "username": "JustAnotherRobot",
+        "first_name": "JustAnotherBot",
+        "last_name": null,
+        "phone": null,
+        "status": null
+    },
+    {
+        "id": 537790376,
+        "username": "Scratch171",
+        "first_name": "ScratchResurrection",
+        "last_name": "~ রাকেশ",
+        "phone": null,
+        "status": "UserStatusLastMonth(by_me=False)"
+    },
+    {
+        "id": 357768974,
+        "username": "Mopiti",
+        "first_name": "Th ‌-‌⃝.-mas",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusOffline(was_online=datetime.datetime(2024, 5, 20, 2, 30, 2, tzinfo=datetime.timezone.utc))"
+    },
+    {
+        "id": 395009682,
+        "username": "JrbeaR",
+        "first_name": "Jerbear",
+        "last_name": "[No PM]",
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 370663289,
+        "username": "watzon",
+        "first_name": "Watzon",
+        "last_name": "the Zen Fox",
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 156715206,
+        "username": "TheSirati97",
+        "first_name": "-> sirati97 <-",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusOffline(was_online=datetime.datetime(2024, 3, 24, 1, 4, 43, tzinfo=datetime.timezone.utc))"
+    },
+    {
+        "id": 835982694,
+        "username": null,
+        "first_name": "Gabriel",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 741792413,
+        "username": "GeeksModBot",
+        "first_name": "GeeksModBot",
+        "last_name": null,
+        "phone": null,
+        "status": null
+    },
+    {
+        "id": 691609650,
+        "username": "lulzx",
+        "first_name": "Lulzx",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusOffline(was_online=datetime.datetime(2024, 5, 20, 8, 8, 38, tzinfo=datetime.timezone.utc))"
+    },
+    {
+        "id": 276375010,
+        "username": "LouCypher",
+        "first_name": "‌Zulkarnain",
+        "last_name": "‌K. [UTC+7]",
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 396408680,
+        "username": "DeleteEventsBot",
+        "first_name": "DeleteEvents Bot",
+        "last_name": null,
+        "phone": null,
+        "status": null
+    },
+    {
+        "id": 74345688,
+        "username": "gokublade",
+        "first_name": "Goku Blade",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 172811422,
+        "username": "SitiSchu",
+        "first_name": "⟨ Simon |",
+        "last_name": "Schürrle ⟩",
+        "phone": null,
+        "status": "UserStatusOffline(was_online=datetime.datetime(2024, 5, 20, 6, 30, 46, tzinfo=datetime.timezone.utc))"
+    },
+    {
+        "id": 130147847,
+        "username": "GameMaster",
+        "first_name": "GameMaster",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusOffline(was_online=datetime.datetime(2024, 5, 20, 5, 59, 33, tzinfo=datetime.timezone.utc))"
+    },
+    {
+        "id": 139153061,
+        "username": "Bergfreak",
+        "first_name": "Jannik",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 374629301,
+        "username": "sudoLife",
+        "first_name": "sudoLife",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 40869593,
+        "username": null,
+        "first_name": "Your inner wasted Potential",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 153760094,
+        "username": "shenef",
+        "first_name": "sнeи>",
+        "last_name": "./🐲",
+        "phone": null,
+        "status": "UserStatusOffline(was_online=datetime.datetime(2024, 5, 20, 7, 8, 33, tzinfo=datetime.timezone.utc))"
+    },
+    {
+        "id": 43973111,
+        "username": "xenial",
+        "first_name": "Julia",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 221714512,
+        "username": "wrxck",
+        "first_name": "Matt",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusLastWeek(by_me=False)"
+    },
+    {
+        "id": 135752702,
+        "username": "ScarlettLady",
+        "first_name": "Scarlet",
+        "last_name": "🇺🇸",
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 103636788,
+        "username": "rafalense",
+        "first_name": "rafa",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 90412883,
+        "username": "Zenexer",
+        "first_name": "Paul (@Zenexer)",
+        "last_name": null,
+        "phone": "88808026432",
+        "status": "UserStatusOffline(was_online=datetime.datetime(2024, 5, 20, 2, 41, 35, tzinfo=datetime.timezone.utc))"
+    },
+    {
+        "id": 81139313,
+        "username": "diazbastian",
+        "first_name": "Bastián",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 167921906,
+        "username": "pingiun",
+        "first_name": "yele",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusRecently(by_me=False)"
+    },
+    {
+        "id": 126950501,
+        "username": "S4DSupport",
+        "first_name": "S4",
+        "last_name": "Dynamics",
+        "phone": null,
+        "status": null
+    },
+    {
+        "id": 31744367,
+        "username": "akin4tor",
+        "first_name": "Albert",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusOffline(was_online=datetime.datetime(2024, 5, 20, 7, 11, 37, tzinfo=datetime.timezone.utc))"
+    },
+    {
+        "id": 7719679,
+        "username": "lulivi",
+        "first_name": "Luvo",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusOffline(was_online=datetime.datetime(2024, 5, 20, 7, 56, 55, tzinfo=datetime.timezone.utc))"
+    },
+    {
+        "id": 918962,
+        "username": "T3CHNO",
+        "first_name": "CHRIS",
+        "last_name": null,
+        "phone": null,
+        "status": "UserStatusOffline(was_online=datetime.datetime(2024, 5, 20, 8, 1, 50, tzinfo=datetime.timezone.utc))"
+    }
+]

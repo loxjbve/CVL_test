@@ -1,0 +1,17 @@
+{
+  "client": {
+    "api_id": "",
+    "api_hash": ""
+  },
+  "database": {
+    "host": "localhost",
+    "user": "root",
+    "password": "111",
+    "database": "cvl",
+    "charset": "utf8mb4"
+  },
+  "existed_sessions": {
+	"//":"计划将已存在的会话信息添加于此，方便多账号管理"
+  },
+  "bot_token": ""
+}
